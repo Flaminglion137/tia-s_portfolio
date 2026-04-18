@@ -13,6 +13,7 @@ I'm Tia Patel, a data analyst passionate about turning raw data into meaningful 
 | Project | Description |
 |---|---|
 | [What Makes Countries Happy?](https://flaminglion137.github.io/world-happiness-data/) | An interactive analysis of the World Happiness Report 2015–2019 across 155+ countries |
+| [Who Gets a Loan? Credit Risk Analysis](https://flaminglion137.github.io/credit-risk-analysis/) | An interactive analysis on factors affecting chances of loans |
 
 ## Live Site
 
